@@ -9,3 +9,4 @@ You can find more from me at the following links:
  - Website: [ethanhs.me](https://ethanhs.me)
  - Mastodon: <a rel="me" href="https://hachyderm.io/@ethantyping">Mastodon</a>
  
+<link href="https://hachyderm.io/@ethantyping" rel="me">
