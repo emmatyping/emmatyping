@@ -7,6 +7,6 @@ In my open source work, I am a core developer on the mypy project, and a contrib
 You can find more from me at the following links:
 
  - Website: [emmatyping.dev](https://emmatyping.dev)
- - Mastodon: <a rel="me" href="https://hachyderm.io/@ethantyping">Mastodon</a>
+ - Mastodon: <a rel="me" href="https://hachyderm.io/@emmatyping">Mastodon</a>
  
-<link href="https://hachyderm.io/@ethantyping" rel="me">
+<link href="https://hachyderm.io/@emmatyping" rel="me">
