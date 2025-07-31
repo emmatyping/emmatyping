@@ -2,7 +2,7 @@ Hi 👋 I'm Emma!
 
 I am a passionate open source developer with a love of programming languages/type theory, data compression, packaging, and WebAssembly!
 
-In my open source work, I am a CPython triager and mypy core developer. I've also authored multiple accepted Python Enhancement Proposals (PEPs):
+In my open source work, I am a CPython Core Developer and a member of the mypy core team. I've also authored multiple accepted Python Enhancement Proposals (PEPs):
 - [PEP 561](https://peps.python.org/pep-0561/) describes how to distribute types in Python packages
 - [PEP 784](https://peps.python.org/pep-0784/) adds Zstandard compression to the Python standard library
 
